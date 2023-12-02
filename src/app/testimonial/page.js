@@ -53,7 +53,7 @@ const page = async () => {
                       </p>
                     </div>
                     <h2 className="text-[26px] font-semibold">{val["name"]}</h2>
-                    <p className="text-base text-titlecolor">
+                    <p className="text-base text-titlecolor h">
                       {val["designation"]}
                     </p>
                   </div>
